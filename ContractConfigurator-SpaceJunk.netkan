@@ -1,0 +1,24 @@
+{
+    "spec_version" : "v1.4",
+    "identifier"   : "ContractConfigurator-SpaceJunk",
+    "$kref"    : "#/ckan/github/Viruk67/ContractConfigurator-SpaceJunk",
+    "name"     : "Contract Pack: Space Junk",
+    "abstract" : "A contract pack for Contract Configurator involving the recovery or destruction of space debris",
+    "license"  : "MIT",
+    "$vref"    : "#/ckan/ksp-avc",
+    "depends" : [
+    {
+    "name" : "ContractConfigurator",
+    "min_version" : "1.12.0"
+    }
+],
+    "install" : [
+    {
+    "find" : "SpaceJunk",
+    "install_to" : "GameData/ContractPacks"
+    }
+    ],
+    "resources" : {
+    "homepage" : "https://github.com/Viruk67/ContractConfigurator-SpaceJunk/wiki"
+    }
+} 

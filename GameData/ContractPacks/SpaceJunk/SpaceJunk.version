@@ -1,0 +1,31 @@
+{
+ "NAME":"Contract Pack: Space Junk",
+ "URL":"https://github.com/Viruk67/ContractConfigurator-SpaceJunk/blob/develop/GameData/ContractPacks/SpaceJunk/SpaceJunk.version",
+ "DOWNLOAD":"https://github.com/Viruk67/ContractConfigurator-SpaceJunk/releases",
+ "GITHUB":{
+   "USERNAME":"Viruk67",
+   "REPOSITORY":"ContractConfigurator-SpaceJunk",
+   "ALLOW_PRE_RELEASE":false
+ },
+ "VERSION":{
+     "MAJOR":0,
+     "MINOR":1,
+     "PATCH":0,
+     "BUILD":0
+ },
+ "KSP_VERSION":{
+     "MAJOR":1,
+     "MINOR":2,
+     "PATCH":0
+ },
+ "KSP_VERSION_MIN":{
+     "MAJOR":1,
+     "MINOR":2,
+     "PATCH":0
+ },
+ "KSP_VERSION_MAX":{
+     "MAJOR":1,
+     "MINOR":2,
+     "PATCH":99
+ }
+} 
