@@ -1,0 +1,35 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "ContractConfigurator-SpaceJunk",
+    "name": "Contract Pack: Space Junk",
+    "abstract": "Satisfy Jeb's need for junk by collecting or destroying it",
+    "author": "Viruk67",
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/Viruk67/ContractConfigurator-SpaceJunk/wiki",
+        "repository": "https://github.com/Viruk67/ContractConfigurator-SpaceJunk"
+    },
+    "version": "0.1.0.0",
+    "ksp_version_min": "1.2.0",
+    "ksp_version_max": "1.99.99",
+    "depends": [
+        {
+            "name": "ContractConfigurator",
+            "min_version": "1.12.0"
+        }
+    ],
+    "install": [
+        {
+            "find": "SpaceJunk",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "download": "https://github.com/Viruk67/ContractConfigurator-SpaceJunk/releases/download/0.1.0.0/SpaceJunk0.1.0.0.zip",
+    "download_size": 70878,
+    "download_hash": {
+        "sha1": "9A772AF3330754C4CE25047D43746390717CFFF0",
+        "sha256": "BC21FF1917589BE2BD5AF7E70E903E878B83289713F3FF1C170AC313BE737ECC"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
