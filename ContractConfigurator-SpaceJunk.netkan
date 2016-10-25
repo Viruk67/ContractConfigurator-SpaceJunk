@@ -3,7 +3,7 @@
     "identifier"   : "ContractConfigurator-SpaceJunk",
     "$kref"    : "#/ckan/github/Viruk67/ContractConfigurator-SpaceJunk",
     "name"     : "Contract Pack: Space Junk",
-    "abstract" : "Satisfy Jeb's need for junk by collecting or destroying it with these two contract types",
+    "abstract" : "A contract pack for Contract Configurator involving the recovery or destruction of space debris",
     "license"  : "MIT",
     "$vref"    : "#/ckan/ksp-avc",
     "depends" : [
