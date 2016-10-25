@@ -1,7 +1,7 @@
 {
      "NAME":"Contract Pack: Space Junk",
-	 "URL":"https://raw.githubusercontent.com/Viruk67/ContractPack-SpaceJunk/master/GameData/ContractPacks/SpaceJunk/SpaceJunk.version",
-	 "DOWNLOAD":"https://github.com/Viruk67/ContractPack-SpaceJunk/releases",
+	 "URL":"https://github.com/Viruk67/ContractConfigurator-SpaceJunk/blob/develop/GameData/ContractPacks/SpaceJunk/SpaceJunk.version",
+	 "DOWNLOAD":"https://github.com/Viruk67/ContractConfigurator-SpaceJunk/releases",
      "GITHUB":{
          "USERNAME":"Viruk67",
          "REPOSITORY":"ContractPack-SpaceJunk",
