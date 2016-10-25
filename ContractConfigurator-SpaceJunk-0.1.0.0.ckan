@@ -24,11 +24,11 @@
             "install_to": "GameData/ContractPacks"
         }
     ],
-    "download": "https://github.com/Viruk67/ContractConfigurator-SpaceJunk/releases/download/0.1.0.0/SpaceJunk0.1.0.0.zip",
-    "download_size": 70878,
+    "download": "https://github.com/Viruk67/ContractConfigurator-SpaceJunk/releases/download/0.1.0.0/ContractConfigurator-SpaceJunk0.1.0.0.zip",
+    "download_size": 77801,
     "download_hash": {
-        "sha1": "9A772AF3330754C4CE25047D43746390717CFFF0",
-        "sha256": "BC21FF1917589BE2BD5AF7E70E903E878B83289713F3FF1C170AC313BE737ECC"
+        "sha1": "5E8CF40872E595086B37CEDA363910B9236FA0AA",
+        "sha256": "CB33581FACBF67A8B2C780831C216B3252BEFFA7F4EF9F2661497406FDE7F30A"
     },
     "download_content_type": "application/zip",
     "x_generated_by": "netkan"
