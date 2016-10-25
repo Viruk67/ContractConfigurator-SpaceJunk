@@ -5,7 +5,7 @@
      "GITHUB":{
          "USERNAME":"Viruk67",
          "REPOSITORY":"ContractPack-SpaceJunk",
-         "ALLOW_PRE_RELEASE":false
+         "ALLOW_PRE_RELEASE":true
      },
      "VERSION":{
          "MAJOR":0,
