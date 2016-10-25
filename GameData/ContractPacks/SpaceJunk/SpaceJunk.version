@@ -4,7 +4,7 @@
 	 "DOWNLOAD":"https://github.com/Viruk67/ContractConfigurator-SpaceJunk/releases",
      "GITHUB":{
          "USERNAME":"Viruk67",
-         "REPOSITORY":"ContractPack-SpaceJunk",
+         "REPOSITORY":"ContractConfigurator-SpaceJunk",
          "ALLOW_PRE_RELEASE":true
      },
      "VERSION":{
