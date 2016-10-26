@@ -6,6 +6,7 @@
     "abstract" : "A contract pack for Contract Configurator involving the recovery or destruction of space debris",
     "license"  : "MIT",
     "$vref"    : "#/ckan/ksp-avc",
+    "release_status" : "testing",
     "depends" : [
     {
     "name" : "ContractConfigurator",
