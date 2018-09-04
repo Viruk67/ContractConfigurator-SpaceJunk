@@ -10,7 +10,7 @@ The second requires the Player to destroy the targeted debris. How they do that 
 
 ## Installation
 
-Downlaod the latest release from the GitHub respository. Expand the ZIP file and place the contents in your _GameData_ folder.
+Download the latest release from the GitHub respository. Expand the ZIP file and place the contents in your _GameData_ folder.
 
 ## Requirements
 
