@@ -6,7 +6,7 @@ Throughout the Kerbin system, rocket debris abounds. This contract pack puts tha
 
 The first requires the Player to safely recover (most) of a targeted piece of debris. These contracts are very like the recovery contracts that exist in the stock game, except they involve debris.
 
-The second requires the Player to destroy the targeted debris. How they do that is up to them. crashing and explosions sounds like good methods.
+The second requires the Player to destroy the targeted debris. How they do that is up to them. Crashing and explosions sounds like good methods.
 
 ## Installation
 
